@@ -17,7 +17,7 @@ This project is a simple ERP System built using React and Tailwind CSS. It inclu
    git clone https://github.com/Babur02/ERP-System.git 
 2. Install dependencies:
    ```bash
-   npm intall
+   npm install
 ## Usage
 1. Start the Devlopment Server:
    ```bash
